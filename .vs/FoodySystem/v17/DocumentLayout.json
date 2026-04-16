@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|c:\\users\\user\\desktop\\backend-test-automation\\02.exam-prep\\foodysystem\\foodysystem\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|solutionrelative:foodysystem\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|c:\\users\\user\\desktop\\backend-test-automation\\02.exam-prep\\foodysystem\\foodysystem\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|solutionrelative:foodysystem\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|c:\\users\\user\\desktop\\backend-test-automation\\02.exam-prep\\foodysystem\\foodysystem\\models\\apirespomsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|solutionrelative:foodysystem\\models\\apirespomsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|c:\\users\\user\\desktop\\backend-test-automation\\02.exam-prep\\foodysystem\\foodysystem\\foodysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A6F8F81-5FBB-45DF-8BDF-4778AAD91DEB}|FoodySystem\\FoodySystem.csproj|solutionrelative:foodysystem\\foodysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodySystem.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\FoodySystem.csproj",
+              "RelativeDocumentMoniker": "FoodySystem\\FoodySystem.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\FoodySystem.csproj",
+              "RelativeToolTip": "FoodySystem\\FoodySystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T17:31:15.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\Models\\FoodDTO.cs",
+              "RelativeDocumentMoniker": "FoodySystem\\Models\\FoodDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\Models\\FoodDTO.cs",
+              "RelativeToolTip": "FoodySystem\\Models\\FoodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:01:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiRespomseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\Models\\ApiRespomseDTO.cs",
+              "RelativeDocumentMoniker": "FoodySystem\\Models\\ApiRespomseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\Models\\ApiRespomseDTO.cs",
+              "RelativeToolTip": "FoodySystem\\Models\\ApiRespomseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:01:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FoodySystem\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BackEnd-Test-Automation\\02.Exam-Prep\\FoodySystem\\FoodySystem\\UnitTest1.cs",
+              "RelativeToolTip": "FoodySystem\\UnitTest1.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwJ8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:00:23.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
